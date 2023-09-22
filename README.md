@@ -14,6 +14,8 @@
 This project contains the model GInRec, and inductive recommender for both users and items.
 ![Go to images to find pdf full resulution version.](/images/model.png)
 
+It was presented at the KARS workshop under the CC 4.0 license and can be found here: [GInRec: A Gated Architecture for Inductive Recommendation using Knowledge Graphs](ginrec-kars2023.pdf)
+
 ## Installation <a id="installation"/>
 Python version. 3.8 all other requirements are located in requirements.txt. We highly recommend using a virtual 
 environment.
